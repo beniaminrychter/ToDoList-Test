@@ -7,3 +7,6 @@ console.log( "abc" );
 
 
 // Turbo nowości!
+
+
+document.querySelector('.btn').style.backgroundColor = 'red';
