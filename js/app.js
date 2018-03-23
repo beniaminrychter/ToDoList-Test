@@ -3,6 +3,10 @@ console.log( "Działam!" );
 console.log( "Jakieś nowości" );
 
 
+var i = 10;
+i++;
+
+
 console.log( "abc" );
 
 
